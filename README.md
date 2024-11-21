@@ -1,4 +1,5 @@
 🚀 Membangun Dashboard Interaktif dengan Looker Studio!
+
 Dalam proyek ini, saya membangun dashboard interaktif untuk analisis data melalui program "BootCamp Data Analyst with SQL & Python using Google Platform" di DQLab Academy.
 Meskipun program ini mencakup banyak pembelajaran tentang SQL dan Python, dalam proyek ini saya fokus membuat dashboard menggunakan Looker Studio (sebelumnya Google Data Studio), sebagai alat utama untuk visualisasi dan penyajian data. 
 Dengan menggunakan dataset yang sudah tersedia, saya membangun dashboard untuk menganalisis dan memvisualisasikan berbagai metrik yang relevan dalam format yang mudah dipahami.
